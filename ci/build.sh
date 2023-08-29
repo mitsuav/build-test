@@ -6,7 +6,6 @@ export BUILD_BROKEN_MISSING_REQUIRED_MODULES=true
 export TZ=Asia/Jakarta
 lunch evolution_merlinx-user
 make evolution
-make evolution
 # make bootimage
 # make init
 
